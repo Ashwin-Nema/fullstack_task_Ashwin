@@ -61,4 +61,28 @@ To install them globally, follow these steps:
       ```bash
       npm run dev
       ```
+
+  ## Setting up Frontend
+
+1. **Go to the front-end folder:**
+
+2. **Open terminal and type:**
+
+    ```bash
+    npm install
+    ```
+
+3. **Create a file named `.env.example` in the front-end folder. Add the following environment variable:**
+
+    ```
+    NEXT_PUBLIC_BACK_END_HOST - This is the URL of the backend where the server is running. For example, "http://localhost:4000/"
+    ```
+
+4. **Open terminal and type the following:**
+
+    ```bash
+    npm run dev
+    ```
+
+5. **Open the browser at "http://localhost:3000"**
 Open the browser at http://localhost:3000. Now the project is running
