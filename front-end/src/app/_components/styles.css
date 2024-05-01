@@ -1,0 +1,9 @@
+.notes-list {
+  .scrollbar::-webkit-scrollbar-thumb {
+    height: 12rem;
+    border-radius: 1rem;
+  }
+  .scrollbar::-webkit-scrollbar {
+    width: 0.5rem;
+  }
+}
