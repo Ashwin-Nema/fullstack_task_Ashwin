@@ -84,5 +84,4 @@ To install them globally, follow these steps:
     npm run dev
     ```
 
-5. **Open the browser at "http://localhost:3000"**
-Open the browser at http://localhost:3000. Now the project is running
+5. Open the browser at http://localhost:3000, Now the project is running
